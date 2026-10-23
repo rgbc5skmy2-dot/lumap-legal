@@ -1,3 +1,16 @@
 {
-  "announcements": []
+  "announcements": [
+    {
+      "id": "2026-10-24-v1.3.0",
+      "date": "2026-10-24",
+      "title": {
+        "ja": "バージョン 1.3.0 のお知らせ",
+        "en": "What's new in version 1.3.0"
+      },
+      "body": {
+        "ja": "・ホーム画面のウィジェットを追加しました。写真で埋まっていく「My Japan」「My World」と、好きな場所の作品を飾れる「思い出の 1 枚」から選べます。\n・作品のスタイルに「重ねる」を追加しました。\n・設定に「お知らせ」を追加しました。これからの新しい機能や大事なお知らせは、ここでお伝えします。",
+        "en": "・New home screen widgets: My Japan and My World fill up with your photos, and Trip memories shows the artwork of a place you choose.\n・New artwork style: Overlay.\n・Added News in Settings. We'll share new features and important updates here."
+      }
+    }
+  ]
 }
