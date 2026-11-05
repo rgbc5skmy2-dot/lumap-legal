@@ -1,6 +1,19 @@
 {
   "announcements": [
     {
+      "id": "2026-11-06-v1.4.0",
+      "date": "2026-11-06",
+      "title": {
+        "ja": "バージョン 1.4.0 のお知らせ",
+        "en": "What's new in version 1.4.0"
+      },
+      "body": {
+        "ja": "・「新しい地図」を追加しました。家族、友だち、ひとり旅など、一緒に行った人や旅のテーマごとに、日本地図・世界地図を別々に作れます。新しい地図で作った作品は、MY JAPAN / MY WORLD にも記録されます。(無料版は日本・世界それぞれ 2 枚まで、Lumap Pro なら何枚でも)\n・ハワイをアメリカとは別の場所として記録できるようにしました。前からハワイの写真をアメリカに入れていた方は、ハワイの作品として作り直していただけます。\n・そのほか、使いやすさの改善と不具合の修正を行いました。\n\nまだの方は、最新のバージョンへのアップデートをお願いします。",
+        "en": "・New: Maps. Make separate Japan and world maps for family, friends, solo trips or any theme. Artwork you make in a new map is also recorded in MY JAPAN / MY WORLD. (Free: 2 maps each for Japan and the world. Lumap Pro: unlimited.)\n・Hawaii can now be recorded as its own place, separate from the United States. If you added Hawaii photos to the United States before, you can make them into a Hawaii artwork.\n・Other improvements and bug fixes.\n\nIf you haven't yet, please update to the latest version."
+      },
+      "link": "appStore"
+    },
+    {
       "id": "2026-11-03-v1.3.1",
       "date": "2026-11-03",
       "title": {
