@@ -3,6 +3,7 @@
     {
       "id": "2026-11-06-v1.4.0",
       "date": "2026-11-06",
+      "platform": "ios",
       "title": {
         "ja": "バージョン 1.4.0 のお知らせ",
         "en": "What's new in version 1.4.0"
@@ -16,6 +17,7 @@
     {
       "id": "2026-11-03-v1.3.1",
       "date": "2026-11-03",
+      "platform": "ios",
       "title": {
         "ja": "バージョン 1.3.1 のお知らせ",
         "en": "What's new in version 1.3.1"
@@ -29,6 +31,7 @@
     {
       "id": "2026-10-24-v1.3.0",
       "date": "2026-10-24",
+      "platform": "ios",
       "title": {
         "ja": "バージョン 1.3.0 のお知らせ",
         "en": "What's new in version 1.3.0"
