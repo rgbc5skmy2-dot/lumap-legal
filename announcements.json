@@ -1,6 +1,20 @@
 {
   "announcements": [
     {
+      "id": "2026-11-07-v1.4.1",
+      "date": "2026-11-07",
+      "platform": "ios",
+      "title": {
+        "ja": "バージョン 1.4.1 のお知らせ",
+        "en": "What's new in version 1.4.1"
+      },
+      "body": {
+        "ja": "・同じ場所に旅が 2 つ以上あるとき、旅の終了日を選べないことがある問題を修正しました。\n\n・都道府県や国を名前で探すとき、五十音順に並べ替えられるようになりました。\n\n・そのほか、使いやすさの改善と不具合の修正を行いました。\n\nご不便をおかけして申し訳ありませんでした。まだの方は、最新のバージョンへのアップデートをお願いします。",
+        "en": "・Fixed an issue where you sometimes couldn't set the end date when a place had more than one trip.\n\n・Other improvements and bug fixes.\n\nSorry for the trouble. If you haven't yet, please update to the latest version."
+      },
+      "link": "appStore"
+    },
+    {
       "id": "2026-11-06-v1.4.0",
       "date": "2026-11-06",
       "platform": "ios",
