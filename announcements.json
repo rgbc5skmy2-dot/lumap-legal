@@ -9,8 +9,8 @@
         "en": "What's new in version 1.5.0"
       },
       "body": {
-        "ja": "・作品に背景を入れられるようになりました。作品の画面で「中に入れる」を選び、スタイルの左の背景のボタンから、写真をぼかす・白っぽく・暗くの 3 つから選べます。(Lumap Pro では強さも調整できます)\n\n・写真を格子状にきれいに並べられるようになりました。\n\n・Lumap Pro では、作品を今までの 2 倍の高画質で書き出せるようになりました。\n\n・書き出しが速くなりました。\n\n・スタイルを切り替えても、手で並べた配置が残るようになりました。\n\n・思い出の 1 枚のウィジェットで、名前の位置や日付の表示を選べるようになりました。背景を入れた作品は、ウィジェット全体に背景が広がります。\n\n・使い方を設定の「よくある質問」にまとめました。\n\n・そのほか、使いやすさの改善と不具合の修正を行いました。\n\nまだの方は、最新のバージョンへのアップデートをお願いします。",
-        "en": "・Add a photo background to your artwork. Choose Inside as the style, then tap the background button to the left of the style to blur, lighten or darken a photo. (Adjust the strength with Lumap Pro.)\n\n・Arrange photos neatly in a grid.\n\n・Lumap Pro: export your artwork at twice the resolution.\n\n・Faster exports.\n\n・Your manual layout is kept when you switch styles.\n\n・Memory widget: choose where the name goes and whether to show the date. Artwork with a photo background now fills the whole widget.\n\n・New FAQ in Settings.\n\n・Other improvements and bug fixes.\n\nIf you haven't yet, please update to the latest version."
+        "ja": "・作品に背景を入れられるようになりました。作品の画面で「中に入れる」を選び、スタイルの左の背景のボタンから、写真をぼかす・白・暗くの 3 つから選べます。(Lumap Pro では強さも調整できます)\n\n・写真を格子状にきれいに並べられるようになりました。\n\n・Lumap Pro では、作品を今までの 2 倍の高画質で書き出せるようになりました。\n\n・使い方を設定の「よくある質問」にまとめました。\n\n・そのほか、使いやすさの改善と不具合の修正を行いました。\n\nまだの方は、最新のバージョンへのアップデートをお願いします。",
+        "en": "・Add a photo background to your artwork. Choose Inside as the style, then tap the background button to the left of the style to blur, lighten or darken a photo. (Adjust the strength with Lumap Pro.)\n\n・Arrange photos neatly in a grid.\n\n・Lumap Pro: export your artwork at twice the resolution.\n\n・New FAQ in Settings.\n\n・Other improvements and bug fixes.\n\nIf you haven't yet, please update to the latest version."
       },
       "link": "appStore"
     },
