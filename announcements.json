@@ -1,6 +1,23 @@
 {
   "announcements": [
     {
+      "id": "2026-11-20-lifetime-price",
+      "date": "2026-11-20",
+      "platform": "ios",
+      "title": {
+        "ja": "買い切りプランを値下げしました",
+        "en": "The lifetime plan is now cheaper",
+        "zhHant": "永久買斷方案降價了",
+        "ko": "평생 이용권 가격을 내렸어요"
+      },
+      "body": {
+        "ja": "もっと気軽に Lumap Pro を使ってもらえるよう、買い切りプランを値下げしました。一度の支払いで、広告なし・レイアウト・仕上げ・高画質の書き出しなどがずっと使えます。\n\n新しい値段は、設定の「Lumap Pro」から見られます。",
+        "en": "We've lowered the price of the Lumap Pro lifetime plan so more people can enjoy it. Pay once for no ads, layouts, styles, high-resolution exports and more, forever.\n\nSee the new price in Settings → Lumap Pro.",
+        "zhHant": "為了讓更多人輕鬆使用 Lumap Pro，我們調降了永久買斷方案的價格。付款一次，就能永久享有無廣告、版面、修飾、高畫質匯出等功能。\n\n新的價格可以在設定的「Lumap Pro」查看。",
+        "ko": "더 많은 분들이 부담 없이 Lumap Pro를 쓸 수 있도록 평생 이용권 가격을 내렸어요. 한 번 결제로 광고 없음, 레이아웃, 꾸미기, 고화질 내보내기 등을 계속 쓸 수 있어요.\n\n새 가격은 설정의 \"Lumap Pro\"에서 볼 수 있어요."
+      }
+    },
+    {
       "id": "2026-11-15-v1.5.0",
       "date": "2026-11-15",
       "platform": "ios",
