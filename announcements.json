@@ -1,6 +1,24 @@
 {
   "announcements": [
     {
+      "id": "2026-11-21-v1.6.0",
+      "date": "2026-11-21",
+      "platform": "ios",
+      "title": {
+        "ja": "バージョン 1.6.0 のお知らせ",
+        "en": "What's new in version 1.6.0",
+        "zhHant": "1.6.0 版更新內容",
+        "ko": "버전 1.6.0 업데이트 안내"
+      },
+      "body": {
+        "ja": "・韓国語と中国語（繁体字）に対応しました。iPhone の言語に合わせて自動で切り替わります。\n\n・思い出の1枚のウィジェットで、同じ場所の別々の旅も選べるようになりました。ウィジェットを長押しして「ウィジェットを編集」から、旅を選び直せます。\n\n・写真を追加するときに「写真を選択できませんでした」と出ることがある問題を改善しました。\n\n・そのほか、使いやすさの改善と不具合の修正を行いました。\n\nまだの方は、最新のバージョンへのアップデートをお願いします。",
+        "en": "・Lumap is now available in Korean and Traditional Chinese. It switches automatically to match your iPhone's language.\n\n・Trip memories widget: you can now choose any trip, including different trips to the same place. Touch and hold the widget, then tap Edit Widget to choose a trip.\n\n・Fixed an issue where adding photos sometimes failed with \"Couldn't select photos\".\n\n・Other improvements and bug fixes.\n\nIf you haven't yet, please update to the latest version.",
+        "zhHant": "・Lumap 支援繁體中文了！謝謝大家的支持。會依照 iPhone 的語言自動切換。\n\n・「回憶的一張」小工具可以選擇同一個地點的不同旅行了。長按小工具，從「編輯小工具」就能重新選擇旅行。\n\n・改善了新增照片時，有時會出現「無法選取照片」的問題。\n\n・其他使用體驗的改善與錯誤修正。\n\n還沒更新的朋友，請更新到最新版本。",
+        "ko": "・한국어를 지원합니다. iPhone의 언어에 맞춰 자동으로 바뀌어요.\n\n・\"추억의 한 장\" 위젯에서 같은 장소의 다른 여행도 고를 수 있게 되었어요. 위젯을 길게 누르고 \"위젯 편집\"에서 여행을 다시 고를 수 있어요.\n\n・사진을 추가할 때 가끔 \"사진을 선택하지 못했습니다\"가 나오던 문제를 개선했어요.\n\n・그 밖의 사용성 개선과 버그 수정.\n\n아직 업데이트하지 않으셨다면 최신 버전으로 업데이트해 주세요."
+      },
+      "link": "appStore"
+    },
+    {
       "id": "2026-11-20-lifetime-price",
       "date": "2026-11-20",
       "platform": "ios",
